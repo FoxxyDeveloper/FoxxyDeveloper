@@ -1,11 +1,7 @@
 <h1 align="center">👋 Greetings, I am Foxxy</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foxxydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="foxxydeveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxxydeveloper" alt="foxxydeveloper" /></a> </p>
-
-- 🔭 I’m currently working on **Chatty**
+---
 
 - 👨‍💻 All of my projects are available at [https://github.com/FoxxyDeveloper](https://github.com/FoxxyDeveloper)
 
